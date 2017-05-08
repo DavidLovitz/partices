@@ -1,1 +1,2 @@
-# particles
+# Particles
+this program models particle motion within two potential wells. The particles repel eachother when close enough and are otherwise only influenced by two potential wells which are shown by the contour plot (contour2.png).
